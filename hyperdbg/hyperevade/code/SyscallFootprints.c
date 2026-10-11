@@ -10,7 +10,7 @@
  *
  */
 #include "pch.h"
-
+#include "../../include/platform/kernel/header/PlatformDbg.h"
 #if ActivateHyperEvadeProject != TRUE
 
 /**
